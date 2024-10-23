@@ -1,4 +1,7 @@
-# 4. Context 
+---
+title: 4. Context 
+---
+
 Explicitly define processes that reduce application & user state
 
 An eight-factor AI application has explicit processes for transforming application and user state into model-digestible context. A *context processor* defines how raw application state is filtered, formatted, and bundled for model consumption. Context processing should be isolated, reproducible, and version-controlled.
