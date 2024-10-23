@@ -7,14 +7,14 @@ author:
 title: The 8-Factor Agent
 
 header_pages:
-- prompts/README.md
-- tools/README.md
-- model-providers/README.md
-- context/README.md
-- examples/README.md
-- reasoning/README.md
-- workflows/README.md
-- traces/README.md
+- prompts/index.md
+- tools/index.md
+- model-providers/index.md
+- context/index.md
+- examples/index.md
+- reasoning/index.md
+- workflows/index.md
+- traces/index.md
 
 
 minima:
