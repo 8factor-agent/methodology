@@ -1,5 +1,3 @@
-# The 8-Factor Agent
-
 ## Introduction
 
 In the era of artificial intelligence, software increasingly incorporates AI agents as core components, called *AI applications* or *AI-native services*. The eight-factor agent methodology is a methodology for building AI applications that:
