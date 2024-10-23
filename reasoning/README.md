@@ -1,4 +1,4 @@
-# VI. Reasoning
+# 6. Reasoning
 Divide processes into deliberative & impromptu reasoning
 
 An eight-factor AI application explicitly distinguishes between different types of reasoning processes. The primary distinction is between *deliberative reasoning* (systematic, multi-step thinking) and *impromptu reasoning* (quick, context-based responses). Each type should be clearly identified and handled appropriately.
