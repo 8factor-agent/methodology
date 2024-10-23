@@ -1,4 +1,4 @@
-# I. Prompts
+# 1. Prompts
 All prompts tracked separately from code
 
 An eight-factor AI application stores all its prompts in dedicated files, separate from application code. A prompt file can be a simple text file, a structured format like YAML, or a specialized prompt template format. A collection of these files forms a *prompt library*.
