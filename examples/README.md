@@ -1,4 +1,7 @@
-# 5. Examples
+---
+title: 5. Examples
+---
+
 Maintain ground-truth examples of expected prompt results
 
 An eight-factor AI application maintains a comprehensive set of example inputs and outputs that serve as ground truth for system behavior. These *examples* act as test cases, documentation, and few-shot learning data. They should be explicitly maintained and version controlled alongside code and prompts.
