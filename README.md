@@ -26,26 +26,26 @@ Any developer building applications that incorporate AI agents. Machine learning
 
 ## The Eight Factors
 
-### I. [Prompts](https://8factor.net/prompts)
+### 1. [Prompts](https://8factor.net/prompts)
 > All prompts tracked separately from code
 
-### II. [Tools](https://8factor.net/tools)
+### 2. [Tools](https://8factor.net/tools)
 > Explicitly define & isolate interfaces that models will call
 
-### III. [Model Providers](https://8factor.net/model-providers)
+### 3. [Model Providers](https://8factor.net/model-providers)
 > Model APIs should be treated as external, replaceable resources
 
-### IV. [Context](https://8factor.net/context)
+### 4. [Context](https://8factor.net/context)
 > Explicitly define processes that reduce application & user state
 
-### V. [Examples](https://8factor.net/examples)
+### 5. [Examples](https://8factor.net/examples)
 > Maintain ground-truth examples of expected prompt results
 
-### VI. [Reasoning](https://8factor.net/reasoning)
+### 6. [Reasoning](https://8factor.net/reasoning)
 > Divide processes into deliberative & impromptu reasoning
 
-### VII. [Workflows](https://8factor.net/workflows)
+### 7. [Workflows](https://8factor.net/workflows)
 > Use workflows to model and run deliberative processes
 
-### VIII. [Traces](https://8factor.net/traces)
+### 8. [Traces](https://8factor.net/traces)
 > Save traces of model executions for debugging and distillation
