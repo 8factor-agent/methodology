@@ -1,4 +1,7 @@
-# 7. Workflows
+---
+title: 7. Workflows
+---
+
 Use workflows to model and run deliberative processes
 
 An eight-factor AI application uses explicit workflow definitions to manage complex, multi-step processes. A *workflow* defines a sequence of steps, their dependencies, and how information flows between them. Workflows should be declarative, observable, and maintainable.
