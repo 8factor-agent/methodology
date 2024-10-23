@@ -4,32 +4,24 @@ author:
   name: Diwank Tomer
   email: "diwank.singh@gmail.com"
 
+title: The 8-Factor Agent
+
+header_pages:
+- prompts/README.md
+- tools/README.md
+- model-providers/README.md
+- context/README.md
+- examples/README.md
+- reasoning/README.md
+- workflows/README.md
+- traces/README.md
+
+
 minima:
   skin: auto
   social_links:
     - { platform: github,  user_url: "https://github.com/8factor-agent/methodology" }
     - { platform: x, user_url: "https://x.com/diwanksingh" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/diwank-tomer" }
-    # bluesky
-    # codeberg
-    # devto
-    # dribbble
-    # facebook
-    # flickr
-    # gitlab
-    # google_scholar
-    # instagram
-    # keybase
-    # mastodon
-    # microdotblog
-    # pinterest
-    # stackoverflow
-    # telegram
-    # whatsapp
-    # youtube
-
-# header_pages:
-#   - about.md
-#   - portfolio.md
 
 show_excerpts: true
