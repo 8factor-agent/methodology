@@ -1,4 +1,7 @@
-# 2. Tools
+---
+title: 2. Tools
+---
+
 Explicitly define & isolate interfaces that models will call
 
 An eight-factor AI application treats tools as clearly defined interfaces through which models can affect the outside world. A *tool* is any function, API, or capability that extends the model's abilities beyond pure text generation. The collection of these interfaces forms the application's *tool registry*.
