@@ -1,4 +1,4 @@
-# III. Model Providers
+# 3. Model Providers
 Model APIs should be treated as external, replaceable resources
 
 An eight-factor AI application treats language models as attached resources, accessed through abstraction layers that enable provider flexibility. A *model provider* is any service offering language model capabilities, whether cloud-based APIs or local deployments. The interface to these providers should be clearly defined and independent of specific implementations.
