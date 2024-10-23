@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap';
+
+.markdown-body {
+  * {
+    font-family: 'Atkinson Hyperlegible' !important;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Mono' !important;
+  }
+
+  pre, code {
+    font-family: 'DM Mono' !important;
+  }
+}
