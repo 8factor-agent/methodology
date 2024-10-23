@@ -1,4 +1,7 @@
-# 8. Traces
+---
+title: 8. Traces
+---
+
 Save traces of model executions for debugging and distillation
 
 An eight-factor AI application maintains comprehensive traces of all model interactions and process executions. A *trace* captures the complete context, execution path, and results of each operation. Traces should be structured, searchable, and suitable for both debugging and improvement.
