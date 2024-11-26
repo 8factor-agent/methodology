@@ -2,6 +2,9 @@
 title: The 8-Factor Agent
 ---
 
+>
+> You can also take a look at the [slides](https://docs.google.com/document/d/e/2PACX-1vQSqSeFjeqyHuMqWoRfmi48W0_4oW5mZCS5cP5ngbHmoTCMfXFtzNcxfuUkHG8cEPUGolMauTCYJ98O/pub) from a talk about the **8 Factors** at the New York AI User Group.
+
 ## Introduction
 
 In the era of artificial intelligence, software increasingly incorporates AI agents as core components, called *AI applications* or *AI-native services*. The eight-factor agent methodology is a methodology for building AI applications that:
